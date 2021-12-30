@@ -1,9 +1,10 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Pramodh Gowda
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I am a Data Science grad at <a href="https://www.northeastern.edu/">Northeastern University</a> with a penchant
+                      for deriving insights from massive data volumes. 
+                      My hobbies include watching Arsenal FC, reading novels :book: and trekking mountains :mountain:.
+                      You can find my resume <a href="https://onedrive.live.com/download?cid=5B9A5D5E8A5A529C&resid=5B9A5D5E8A5A529C%212423&authkey=AEPPZhaoG3fzYR8&em=2">here</a>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -25,24 +26,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : Pramodh Gowda
+  image             : https://lh3.googleusercontent.com/OrTXIx9HQACmUjn9pe6mPaMCOBIHu6c4m4yP9PyItghOkNSAPiWDC_3UvueojWSprFTr46P-Q_CpuQzE9lIjp2FUgrOXpa20WFP8SrmNukRienRzZi6n2jqcN8RtzwiYpu5dQIpZOQ=s300-c
+#  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : pramodhgps@gmail.com
+#  facebook          : your_username
+  github            : pramodhgps
 # gitlab            : your_username
 # instagram         : your_username
-# kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  kaggle            : pramodhgps
+  linkedin          : pspramodh
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
