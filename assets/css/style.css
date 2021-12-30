@@ -134,8 +134,8 @@ body { font-family: "Poppins", sans-serif; }
 .nav-item.active { font-weight: bold; }
 .nav-item.active::after { width: 100% !important; }
 
-.navbar-brand { margin-bottom: -14px; position: sticky; }
-.navbar-brand::after { margin-top: -0.25em; position: sticky; }
+.navbar-brand { margin-bottom: -14px; }
+.navbar-brand::after { margin-top: -0.25em; }
 
 .markdown-body h1, .markdown-body h2 { margin-top: 32px; }
 .markdown-body hr { background: #6c757d; }
