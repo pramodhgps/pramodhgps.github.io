@@ -20,6 +20,8 @@ and technologies when deploying sustainable, scalable data analytics solutions.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Data Engineering" source=site.data.data-engineering %}
+{% include about/skills.html title="Visualization" source=site.data.visualization %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
