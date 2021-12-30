@@ -1,0 +1,7 @@
+- name: Alteryx
+  percentage: 75
+  color: primary
+
+- name: AWS/Informatica
+  percentage: 60
+  color: info

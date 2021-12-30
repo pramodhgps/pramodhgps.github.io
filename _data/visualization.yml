@@ -1,0 +1,7 @@
+- name: Tableau
+  percentage: 70
+  color: danger
+
+- name: Matplotlib/ggplot2
+  percentage: 60
+  color: warning
