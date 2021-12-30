@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **What I Do?**
 
 I specialize in architecting and building data pipelines that transform raw structured/unstructured data into 
 formats usable for visualizations that enable clients to understand the underlying causes of complex business issues and gain
