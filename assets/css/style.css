@@ -29,11 +29,10 @@
 .cls-14 { fill: #7d6aa5; }
 
 /* animations */
-.navbar {
+/* .navbar {
   position: sticky;
-  top: 0; /* it does not reposition right away,
-             but determines at which point it sticks */
-}
+  top: 0;
+} */
 
 .wheel { animation: wheel-rotate 6s ease infinite; transform-origin: center; transform-box: fill-box; }
 
